@@ -1,1 +1,5 @@
-# Assignment_2_Sherlock_A_study_in_pink_part3
+PROGRAMMING FUNDAMENTALS - CO1027 
+
+ASSIGNMENT 2 SHERLOCK - A STUDY IN PINK - Part 3
+
+specific description: _212_CO1027__Assignment_2-2.pdf
